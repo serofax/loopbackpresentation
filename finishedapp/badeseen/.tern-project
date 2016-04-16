@@ -1,0 +1,8 @@
+{
+    "libs": ["ecma5"],
+    "plugins": {
+          "node": {}
+        },
+    "load": ["node_modules/loopback/**/*.js","node_modules/loopback-connector/**/*.js","common/**/*.js"]
+
+}
